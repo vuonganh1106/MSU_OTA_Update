@@ -4,6 +4,11 @@
       "hw_type": "MSU_G474_V3",
       "version": "1.0.0",
       "url": "https://github.com/vuonganh1106/MSU_OTA_Update/releases/download/v1.0.0/MSU_G474_V3_merged.bin"
+    },
+    {
+      "hw_type": "MSU_V1.2",
+      "version": "1.0.0",
+      "url": "https://github.com/vuonganh1106/MSU_OTA_Update/releases/download/v1.0.0/firmware_bank_a_merged.bin"
     }
   ]
 }
