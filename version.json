@@ -8,7 +8,8 @@
     {
       "hw_type": "3.0.0",
       "version": "1.0.0",
-      "url": "https://github.com/vuonganh1106/MSU_OTA_Update/releases/download/v1.0.0/MSU_G474_V3_merged.bin"
+      "url": "https://github.com/vuonganh1106/MSU_OTA_Update/releases/download/v1.0.0/MSU_G474_V3_merged.bin",
+      "mandatory_update": true
     }
   ]
 }
